@@ -9,9 +9,10 @@ Features
 ✅ Risk scoring and alerting
 ✅ Interactive visualizations
 
-
 Quick Start
-git clone https://github.com/ThreatAnalyzer/Shadow-AI-Detection-System
+
+https://github.com/ThreatAnalyzer/Shadow-AI-Detection-System
 cd Shadow-AI-Detection-System
 pip install -r requirements.txt
 jupyter notebook
+
