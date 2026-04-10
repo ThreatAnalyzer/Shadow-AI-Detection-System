@@ -11,7 +11,7 @@ Features
 
 
 Quick Start
-git clone https://github.com/username/Shadow-AI-Detection-System
+git clone https://github.com/ThreatAnalyzer/Shadow-AI-Detection-System
 cd Shadow-AI-Detection-System
 pip install -r requirements.txt
 jupyter notebook
